@@ -3,18 +3,18 @@
   "title": "Drag Ruler Integration for Sandbox M&M",
   "description": "A module for supporting Sandbox-made Mutants and Masterminds",
   "author": "Sinantrarion",
-  "version": "1.0.2",
-  "minimumCoreVersion": "0.8.8",
-  "url": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox",
-  "download": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/archive/refs/heads/main.zip",
-  "manifest": "https://raw.githubusercontent.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/main/module.json",
+  "version": "1.0.3",
+  "minimumCoreVersion": "9",
   "compatibleCoreVersion":"9",
   "dependencies": [
     {
       "name": "drag-ruler",
       "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
     }],
-    "scripts": [
-      "scripts/hookSpeedProvider.js"
-    ]
+  "esmodules": [
+    "/scripts/hookSpeedProvider.js"
+  ],
+  "url": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox",
+  "download": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/main/module.json"
 }
