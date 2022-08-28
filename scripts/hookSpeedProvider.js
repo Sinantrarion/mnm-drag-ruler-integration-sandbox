@@ -7,7 +7,7 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
         }
 
         getRanges(token) {
-            const baseSpeed = token.actor.data.data.attributes.NUM_SPEED_DISTANCE.value
+            const baseSpeed = token.actor.data.data.attributes.NUM_SPEED_DISTANCE.value;
 
             const ranges = [
                 {range: baseSpeed, color: "walk"}
