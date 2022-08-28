@@ -6,8 +6,8 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.8",
   "url": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox",
-  "download": "https://github.com/https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/archive/refs/heads/main.zip",
-  "manifest": "https://raw.githubusercontent.com/https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/main/module.json",
+  "download": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/main/module.json",
   "compatibleCoreVersion":"9",
   "dependencies": [
     {
