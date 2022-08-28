@@ -11,8 +11,8 @@
       "name": "drag-ruler",
       "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
     }],
-  "esmodules": [
-    "/scripts/hookSpeedProvider.js"
+  "scripts": [
+    "scripts/hookSpeedProvider.js"
   ],
   "url": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox",
   "download": "https://github.com/Sinantrarion/mnm-drag-ruler-integration-sandbox/archive/refs/heads/main.zip",

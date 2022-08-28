@@ -9,8 +9,7 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
         }
 
         getRanges(token) {
-            const movement = token.actor.data.data.attributes.NUM_SPEED_DISTANCE.value;
-			const baseSpeed = Math.max(...Object.values(movement));
+            const baseSpeed = token.actor.data.data.attributes.NUM_SPEED_DISTANCE.value;
 
             const ranges = [
                 {range: baseSpeed, color: "walk"},
