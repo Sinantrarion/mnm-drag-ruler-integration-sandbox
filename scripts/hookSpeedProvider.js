@@ -1,5 +1,8 @@
 Hooks.once("dragRuler.ready", (SpeedProvider) => {
+	console.log("MnM log 1");
     class MnMSpeedProvider extends SpeedProvider {
+		console.log("MnM log 2");
+
         get colors() {
             return [
                 {id: "MoveAction", default: 0x04D40B},
