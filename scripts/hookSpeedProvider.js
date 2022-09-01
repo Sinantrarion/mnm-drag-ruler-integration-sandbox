@@ -12,7 +12,7 @@ Hooks.once("dragRuler.ready", (SpeedProvider) => {
             const baseSpeed = token.actor.data.data.attributes.NUM_SPEED_DISTANCE.value;
 
             const ranges = [
-                {range: baseSpeed, color: "walk"},
+                {range: baseSpeed, color: "MoveAction"},
                 {range: baseSpeed * 2, color: "Athletic"},
                 {range: baseSpeed * 4, color: "ActionDash"}
 				
