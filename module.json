@@ -3,7 +3,7 @@
   "title": "Drag Ruler Integration for Sandbox M&M",
   "description": "A module for supporting Sandbox-made Mutants and Masterminds",
   "author": "Sinantrarion",
-  "version": "1.0.73",
+  "version": "1.0.74",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion":"9",
   "dependencies": [
