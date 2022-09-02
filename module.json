@@ -1,9 +1,9 @@
 {
-  "name": " mnm-drag-ruler-integration-sandbox",
+  "name": "mnm-drag-ruler-integration-sandbox",
   "title": "Drag Ruler Integration for Sandbox M&M",
   "description": "A module for supporting Sandbox-made Mutants and Masterminds",
   "author": "Sinantrarion",
-  "version": "1.0.72",
+  "version": "1.0.73",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion":"9",
   "dependencies": [
